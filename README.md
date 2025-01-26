@@ -1,0 +1,1 @@
+This code file incorporates the learnings related to creating Neural networks from scratch in Python. I have mentioned the theoretical concepts and reasonings before each piece of code.
